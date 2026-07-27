@@ -4,8 +4,7 @@ I am a Naval Architecture graduate with a bachelor’s background in Electrical 
 
 My Master’s research was focused on hull air lubrication systems. I used OpenFOAM to study how air-injector geometry and air-layer thickness affect ship resistance. The research involved more than 30 CFD simulations, mesh-independence testing, validation with experimental results, and analysis of resistance reduction.
 
-I am now learning Python and gradually developing my skills in data analysis and machine learning. My long-term interest is to combine marine hydrodynamics with artificial intelligence.
-
+I am currently learning Python, data analysis, and machine learning. My long-term goal is to apply AI and machine-learning methods to marine hydrodynamics, ship design, and shipbuilding.
 ## What I am currently learning
 
 - Python
