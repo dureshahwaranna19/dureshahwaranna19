@@ -1,45 +1,41 @@
-# Hi, I'm Durr-e-Shahwar (Anna) 👋
+# Hi, I’m Durr-e-Shahwar Anna
 
-### Naval Architect | CFD & OpenFOAM | Learning Python and Machine Learning for Maritime AI
+I am a Naval Architecture graduate with a bachelor’s background in Electrical Engineering. I currently work as an Assistant Manager at Karachi Shipyard & Engineering Works.
 
-I am an Assistant Manager at Karachi Shipyard & Engineering Works with an academic background in Electrical Engineering and Naval Architecture.
+My Master’s research was focused on hull air lubrication systems. I used OpenFOAM to study how air-injector geometry and air-layer thickness affect ship resistance. The research involved more than 30 CFD simulations, mesh-independence testing, validation with experimental results, and analysis of resistance reduction.
 
-My interests lie at the intersection of maritime engineering, computational fluid dynamics, data analysis, and artificial intelligence.
+I am now learning Python and gradually developing my skills in data analysis and machine learning. My long-term interest is to combine marine hydrodynamics with artificial intelligence.
 
-## About Me
+## What I am currently learning
 
-- 🔭 Working on maritime engineering and digital shipyard projects
-- 🌊 Experienced in hull air lubrication and multiphase CFD simulations
-- 🛠️ Worked with OpenFOAM, VOF, RANS, and SST k–ω turbulence modelling
-- 🌱 Currently learning Python, data analysis, machine learning, and GitHub
-- 🎯 Interested in applying AI to ship design, construction, and operation
-- 📍 Based in Karachi, Pakistan
+- Python
+- Data analysis using Python
+- Git and GitHub
+- Basic machine-learning concepts
+- Applications of AI in ship design and shipbuilding
 
-## Technical Skills
+## Projects I am working on
+
+- Python exercises and practice notebooks
+- Digital Shipyard Assistant
+- Analysis of CFD simulation data
+- Ship-resistance prediction using machine learning
+
+## Technical background
 
 - OpenFOAM
 - Computational Fluid Dynamics
-- Multiphase Flow Modelling
-- Python
+- Multiphase flow modelling
+- Hull air lubrication
 - MATLAB
 - Naval Architecture
 - Electrical Engineering
-- Technical Specification Review
-- Engineering Procurement
+- Technical specification review
 
-## Current Projects
+## About this GitHub
 
-- Python Fundamentals – Kaggle Exercises
-- Digital Shipyard Assistant
-- Maritime CFD Data Analysis
-- Surrogate Modelling for Ship Hydrodynamics
+I am still at the beginning of my programming journey. I created this GitHub profile to document what I learn, organise my projects, and show my progress over time.
 
-## Research Background
+The code here may not always be perfect, but each project represents something I have genuinely studied, practised, or developed.
 
-My Master's research focused on the parametric investigation of air injector geometry and air-layer thickness in hull air lubrication systems using OpenFOAM.
-
-The study included more than 30 CFD simulations, mesh-independence analysis, experimental validation, and resistance-reduction assessment.
-
-## Current Goal
-
-I am building my programming and machine-learning portfolio to work on AI applications in maritime engineering and computational ship hydrodynamics.
+Any shipyard-related projects shared here will use public, fictional, or sample data. No confidential company information will be uploaded.
