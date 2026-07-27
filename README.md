@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Durr-e-Shahwar (Anna) 👋
 
-<!--
-**dureshahwaranna19/dureshahwaranna19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Naval Architect | CFD & OpenFOAM | Learning Python and Machine Learning for Maritime AI
 
-Here are some ideas to get you started:
+I am an Assistant Manager at Karachi Shipyard & Engineering Works with an academic background in Electrical Engineering and Naval Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of maritime engineering, computational fluid dynamics, data analysis, and artificial intelligence.
+
+## About Me
+
+- 🔭 Working on maritime engineering and digital shipyard projects
+- 🌊 Experienced in hull air lubrication and multiphase CFD simulations
+- 🛠️ Worked with OpenFOAM, VOF, RANS, and SST k–ω turbulence modelling
+- 🌱 Currently learning Python, data analysis, machine learning, and GitHub
+- 🎯 Interested in applying AI to ship design, construction, and operation
+- 📍 Based in Karachi, Pakistan
+
+## Technical Skills
+
+- OpenFOAM
+- Computational Fluid Dynamics
+- Multiphase Flow Modelling
+- Python
+- MATLAB
+- Naval Architecture
+- Electrical Engineering
+- Technical Specification Review
+- Engineering Procurement
+
+## Current Projects
+
+- Python Fundamentals – Kaggle Exercises
+- Digital Shipyard Assistant
+- Maritime CFD Data Analysis
+- Surrogate Modelling for Ship Hydrodynamics
+
+## Research Background
+
+My Master's research focused on the parametric investigation of air injector geometry and air-layer thickness in hull air lubrication systems using OpenFOAM.
+
+The study included more than 30 CFD simulations, mesh-independence analysis, experimental validation, and resistance-reduction assessment.
+
+## Current Goal
+
+I am building my programming and machine-learning portfolio to work on AI applications in maritime engineering and computational ship hydrodynamics.
